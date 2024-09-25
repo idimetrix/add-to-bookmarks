@@ -19,7 +19,7 @@ npm install add-to-bookmarks
 ```tsx
 import { addToBookmarks } from "add-to-bookmarks";
 
-addToBookmarks('Example.com', 'https://example.com');
+addToBookmarks("Example.com", "https://example.com");
 ```
 
 ## tsup
